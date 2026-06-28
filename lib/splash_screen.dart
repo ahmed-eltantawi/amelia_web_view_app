@@ -1,7 +1,8 @@
 import 'dart:async';
+import 'package:ameila/core/navigate_to_home.dart';
+import 'package:ameila/core/show_image.dart';
 import 'package:flutter/material.dart';
 import 'app_constants.dart';
-import 'appName_view_app.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -22,21 +23,9 @@ class _SplashScreenState extends State<SplashScreen> {
 
   /// Navigate to the home screen after 2 seconds
   void _startTimer() {
-    _timer = Timer(const Duration(seconds: 2), _navigateToHome);
-  }
-
-  /// Navigate to the home screen
-  void _navigateToHome() {
-    Navigator.of(context).pushReplacement(
-      PageRouteBuilder(
-        pageBuilder: (context, animation, secondaryAnimation) =>
-            const AppNameApp(),
-        transitionsBuilder: (context, animation, secondaryAnimation, child) {
-          return FadeTransition(opacity: animation, child: child);
-        },
-        transitionDuration: const Duration(milliseconds: 600),
-      ),
-    );
+    _timer = Timer(const Duration(seconds: 2), () {
+      navigateToHome(context);
+    });
   }
 
   @override
@@ -60,7 +49,7 @@ class _SplashScreenState extends State<SplashScreen> {
               SizedBox(
                 height: 150,
                 width: 150,
-                child: Image.asset(AppConstants.splashScreenImage),
+                child: showImage(image: AppConstants.appIcon),
               ),
               // const SizedBox(height: 16),
               //* --- Linear Progress Indicator ---

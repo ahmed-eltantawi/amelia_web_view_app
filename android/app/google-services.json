@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207629590840",
+    "project_id": "first-web-view-projec",
+    "storage_bucket": "first-web-view-projec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207629590840:android:e344ed4715295c3e8261cd",
+        "android_client_info": {
+          "package_name": "com.asad.asad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYmrwwbvoMGXIKoIEg5V4UdB3e2aIaN5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
