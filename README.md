@@ -20,7 +20,6 @@
 
 ## 📽️ Demo Video
 
-> **Place your demo/walkthrough video here**
 
 <!-- Replace the src below with your actual video path or YouTube embed link -->
 <p align="center">
@@ -29,8 +28,7 @@
 
 https://github.com/user-attachments/assets/d70e0227-274b-4885-ae7d-036bab0fcefb
 
-
-    <br/>
+   <br/>
     ▶️ Click to watch the demo
   </a>
 </p>
