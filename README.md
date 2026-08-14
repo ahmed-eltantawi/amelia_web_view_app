@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>A premium Flutter WebView application wrapping the <a href="https://amelia-boutique.com/">Amelia Boutique</a> website into a seamless native mobile experience.</strong>
+  <strong>A premium Flutter WebView application wrapping the <a href="https://ameila-boutique.com/">Amelia Boutique</a> website into a seamless native mobile experience.</strong>
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
 
 ## 📖 Overview
 
-**Amelia Boutique** is a Flutter-based mobile application that converts the e-commerce website [amelia-boutique.com](https://amelia-boutique.com/) into a fully functional Android and iOS app. The app delivers a near-native shopping experience by embedding the website inside a high-performance WebView engine, enriched with several custom features to make it feel like a true mobile-first product.
+**Amelia Boutique** is a Flutter-based mobile application that converts the e-commerce website [ameila-boutique.com](https://ameila-boutique.com/) into a fully functional Android and iOS app. The app delivers a near-native shopping experience by embedding the website inside a high-performance WebView engine, enriched with several custom features to make it feel like a true mobile-first product.
 
 ---
 
@@ -183,8 +183,8 @@ All core settings are centralized in [`lib/app_constants.dart`](lib/app_constant
 ```dart
 abstract class AppConstants {
   static const String appTitle    = 'Amelia';
-  static const String initialUrl  = 'https://amelia-boutique.com/';
-  static const String domain      = 'amelia-boutique.com';
+  static const String initialUrl  = 'https://ameila-boutique.com/';
+  static const String domain      = 'ameila-boutique.com';
   static const String appScheme   = 'amelia';
   static const String appIcon     = 'assets/app_icon.png';
   static const Color  primaryColor = Color(0xff5E5E5E);
