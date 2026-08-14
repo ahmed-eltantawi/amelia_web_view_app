@@ -1,4 +1,4 @@
-import 'package:ameila/splash_screen.dart';
+import 'package:amelia/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'app_constants.dart';
 

@@ -1,4 +1,4 @@
-import 'package:ameila/view_app.dart';
+import 'package:amelia/view_app.dart';
 import 'package:flutter/material.dart';
 
 void navigateToHome(context) {

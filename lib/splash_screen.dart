@@ -1,6 +1,6 @@
 import 'dart:async';
-import 'package:ameila/core/navigate_to_home.dart';
-import 'package:ameila/core/show_image.dart';
+import 'package:amelia/core/navigate_to_home.dart';
+import 'package:amelia/core/show_image.dart';
 import 'package:flutter/material.dart';
 import 'app_constants.dart';
 
