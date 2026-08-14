@@ -36,6 +36,15 @@
   <source src="assets/demo.mp4" type="video/mp4">
 </video> -->
 
+| | | |
+|:---:|:---:|:---:|
+| ![](assets/screens/splash_1.png) | ![](assets/screens/splash_2.png) | ![](assets/screens/Screenshot_1786697316.png) |
+| ![](assets/screens/Screenshot_1786697320.png) | ![](assets/screens/Screenshot_1786697324.png) | ![](assets/screens/Screenshot_1786697329.png) |
+| ![](assets/screens/Screenshot_1786697332.png) | ![](assets/screens/Screenshot_1786697339.png) | ![](assets/screens/Screenshot_1786697347.png) |
+| ![](assets/screens/Screenshot_1786697360.png) | ![](assets/screens/Screenshot_1786697365.png) | ![](assets/screens/Screenshot_1786697368.png) |
+| ![](assets/screens/Screenshot_1786697440.png) | ![](assets/screens/Screenshot_1786697445.png) | ![](assets/screens/Screenshot_1786697457.png) |
+| ![](assets/screens/Screenshot_1786697467.png) | ![](assets/screens/Screenshot_1786697475.png) | ![](assets/screens/Screenshot_1786697491.png) |
+
 ---
 
 ## 📖 Overview
@@ -101,44 +110,6 @@ amelia/
 ```
 
 ---
-
-## 📸 Screenshots
-
-| Splash Screen 1 | Splash Screen 2 |
-|:---:|:---:|
-| ![Splash 1](assets/screens/splash_1.png) | ![Splash 2](assets/screens/splash_2.png) |
-
-| Home Screen | Product Listing |
-|:---:|:---:|
-| ![Screen 1](assets/screens/Screenshot_1786697316.png) | ![Screen 2](assets/screens/Screenshot_1786697320.png) |
-
-| Product Detail | Cart |
-|:---:|:---:|
-| ![Screen 3](assets/screens/Screenshot_1786697324.png) | ![Screen 4](assets/screens/Screenshot_1786697329.png) |
-
-| Checkout | Order Confirmation |
-|:---:|:---:|
-| ![Screen 5](assets/screens/Screenshot_1786697332.png) | ![Screen 6](assets/screens/Screenshot_1786697339.png) |
-
-| Categories | Collections |
-|:---:|:---:|
-| ![Screen 7](assets/screens/Screenshot_1786697347.png) | ![Screen 8](assets/screens/Screenshot_1786697360.png) |
-
-| Search | Filters |
-|:---:|:---:|
-| ![Screen 9](assets/screens/Screenshot_1786697365.png) | ![Screen 10](assets/screens/Screenshot_1786697368.png) |
-
-| Account | Wishlist |
-|:---:|:---:|
-| ![Screen 11](assets/screens/Screenshot_1786697440.png) | ![Screen 12](assets/screens/Screenshot_1786697445.png) |
-
-| Login Page | Settings |
-|:---:|:---:|
-| ![Screen 13](assets/screens/Screenshot_1786697457.png) | ![Screen 14](assets/screens/Screenshot_1786697467.png) |
-
-| Profile | Error Screen |
-|:---:|:---:|
-| ![Screen 15](assets/screens/Screenshot_1786697475.png) | ![Screen 16](assets/screens/Screenshot_1786697491.png) |
 
 ---
 
