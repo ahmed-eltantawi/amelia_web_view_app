@@ -45,6 +45,7 @@ https://github.com/user-attachments/assets/d70e0227-274b-4885-ae7d-036bab0fcefb
 | ![](assets/screens/Screenshot_1786697360.png) | ![](assets/screens/Screenshot_1786697365.png) | ![](assets/screens/Screenshot_1786697368.png) |
 | ![](assets/screens/Screenshot_1786697440.png) | ![](assets/screens/Screenshot_1786697445.png) | ![](assets/screens/Screenshot_1786697457.png) |
 | ![](assets/screens/Screenshot_1786697467.png) | ![](assets/screens/Screenshot_1786697475.png) | ![](assets/screens/Screenshot_1786697491.png) |
+| ![](assets/screens/Screenshot_1786699070.png) |
 
 ---
 
