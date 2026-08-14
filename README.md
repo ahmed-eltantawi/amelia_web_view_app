@@ -1,7 +1,7 @@
 # 🛍️ Amelia Boutique — Flutter WebView App
 
 <p align="center">
-  <img src="assets/app_icon.png" alt="Amelia Boutique Logo" width="120"/>
+  <img src="assets/splash.png" alt="Amelia Boutique Logo" width="120"/>
 </p>
 
 <p align="center">
