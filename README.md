@@ -29,7 +29,6 @@
 https://github.com/user-attachments/assets/d70e0227-274b-4885-ae7d-036bab0fcefb
 
    <br/>
-    ▶️ Click to watch the demo
   </a>
 </p>
 
